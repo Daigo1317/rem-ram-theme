@@ -1,0 +1,28 @@
+{
+    "manifest": {
+        "version": "1.0.0",
+        "name": "Rem and Ram",
+        "author": "D4ig0#0563"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/908021708932382793\/912695222629187624\/rem2.png"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 2588365,
+        "background_secondary": 8666532,
+        "active_channel": 1868243062,
+        "mention_highlight": -2104033186,
+        "accent": -1302650762
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_red": -7733165,
+        "uikit_btn_bg_color_selector_green": -10805130,
+        "primary_dark_400": -10805130
+    },
+    "drawable_tints": {
+        "drawable_button_red": -8060836,
+        "drawable_button_green": -10805130
+    },
+    "raws": {}
+}
